@@ -8,4 +8,9 @@ Lukis Code(){
  //test Luki
  bugfix();
 }
+Kevins ÜberdimensionalerGeilerCode(){
+2+2 = 4;
+4-1 = 3;
+//Quick maths
+}
 
