@@ -5,3 +5,7 @@ Lukis Code(){
   //testmichi
   //test Luki
 }
+ //test Luki
+ bugfix();
+}
+
